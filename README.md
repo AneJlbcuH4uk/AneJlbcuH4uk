@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Hi there!
 
-<!--
-**AneJlbcuH4uk/AneJlbcuH4uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Unity Developer with a background in Mathematics. I didnt get lucky with people whom I worked with,
+so my projects were made only by me. Sometimes I`m solving problems on Codewars here is my badge.
+<td><img width="400" alt="image" src="https://www.codewars.com/users/TGroks/badges/large" /></td> 
 
-Here are some ideas to get you started:
+---
+🎮 My first finished project is **Jigsaw Puzzle**, a classic puzzle game made fully in Unity.  
+🧩 I also keep a collection of selected **university labs** that show my coding and math skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌍 Languages
+- Russian — native
+- Ukrainian — fluent    
+- English — intermediate  
+
+---
+
+### 📫 Contact
+Feel free to check my projects or reach out here on GitHub.  
+I'm always learning and looking for ways to improve as a developer!
+
