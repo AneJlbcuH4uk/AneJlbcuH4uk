@@ -2,7 +2,7 @@
 
 I'm a beginner Unity Developer with a background in Mathematics. I didnt get lucky with people whom I worked with,
 so my projects were made only by me. Sometimes I`m solving problems on Codewars here is my badge.
-<td><img width="400" alt="image" src="https://www.codewars.com/users/TGroks/badges/large" /></td> 
+<td><img width="400" alt="image" src="https://www.codewars.com/users/TGroks/badges/small" /></td> 
 
 ---
 🎮 My first finished project is **Jigsaw Puzzle**, a classic puzzle game made fully in Unity.  
