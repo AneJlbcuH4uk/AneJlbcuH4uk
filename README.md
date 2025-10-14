@@ -1,5 +1,5 @@
 ### 👋 Hi there!
-
+---
 I'm a beginner Unity Developer with a background in Mathematics. I didnt get lucky with people whom I worked with,
 so my projects were made only by me. Sometimes I`m solving problems on Codewars here is my badge.
 
