@@ -22,6 +22,6 @@ so my projects were made only by me. Sometimes I`m solving problems on Codewars 
 Feel free to check my projects or reach out here on GitHub.  
 I'm always learning and looking for ways to improve as a developer!
 
----
+📧 [My Email]()
 
 ---
