@@ -6,8 +6,9 @@ so my projects were made only by me. Sometimes I`m solving problems on Codewars 
 [<td><img width="400" alt="image" src="https://www.codewars.com/users/TGroks/badges/small" /></td>](https://www.codewars.com/users/TGroks)
 
 ---
-🎮 My first finished project is **Jigsaw Puzzle**, a classic puzzle game made fully in Unity.  
-🧩 I also keep a collection of selected **university labs** that show my coding and math skills.
+🎮 My first finished project is **Jigsaw Puzzle**, a classic puzzle game made fully in Unity.   
+🧩 I also keep a collection of selected **university labs** that show my coding and math skills.   
+👇  You can check them down below in pinned repositories. 
 
 ---
 
